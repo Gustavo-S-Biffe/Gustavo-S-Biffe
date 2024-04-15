@@ -28,9 +28,9 @@
 </p>
 -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gustavo-S-Biffe&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=FFFAFA&text_color=ff91a4&bg_color=0d1117" alt="dsoul oficial github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gustavo-S-Biffe&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=FFFAFA&text_color=b81414&bg_color=0d1117" alt="dsoul oficial github stats" /> 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-S-Biffe&layout=compact&hide_border=true&title_color=00FF7F&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-S-Biffe&layout=compact&hide_border=true&title_color=7b68ee&text_color=899ad5&bg_color=000000" />
 </div>
 
 ### connect with me:
