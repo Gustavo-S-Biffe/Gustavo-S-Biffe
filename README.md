@@ -10,7 +10,7 @@
 
 
 
-- 💻 I'm Developer em formação
+- 💻 I'm Developer in formation
 - 💪 I already counted on: `.CSS3` | `.HTML5` |
 - ❤ I am passionate about developing projects
 - 🔭 an eternal apprentice
